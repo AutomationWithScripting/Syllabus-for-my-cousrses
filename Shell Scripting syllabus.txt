@@ -1,0 +1,52 @@
+**Introduction to Shell**
+Basics of Shell
+Hello world script
+Shebang line
+Variables
+Set and Unset a variable
+Types of variables
+Data Types
+Operations on strings
+Arrays
+
+Unix-commands:
+Basic commands
+Advance commands(cut, awk and sed)
+
+Command Substitution:
+Assigning a command to a variable
+Storing output to a variable
+Assigning global value – using Export
+
+Command Line Arguments:
+ Passing input in runtime.
+ Using input inside a program
+
+Conditional Statements:
+If 
+If-else
+Nested if-else
+
+Loops and control statements:
+For loop
+While loop
+Until 
+Nested loops
+Break and continue
+Case statement
+
+Functions:
+Creating a function
+Calling a function in file 
+Calling a function in another file
+Scheduler:
+Scheduling a job – using ‘Crontab’ 
+Scheduling a job – using ‘at’
+Advance shell scripting:
+Running Shell script on remote servers
+AWK Scripting
+Connecting to Database & Running SQL queries from shell script
+Implementing DevOps scripts
+Implementing AWS Automation Scripts
+
+
